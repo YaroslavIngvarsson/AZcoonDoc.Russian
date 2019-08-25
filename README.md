@@ -1,2 +1,2 @@
-# Korean-Male-for-AZcoon.Vowels
-Training documents for AZcoon.Vowels
+# AZcoonDoc.Russian
+Russian training documents for AZcoon
